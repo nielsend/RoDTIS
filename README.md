@@ -14,7 +14,7 @@ This script was used in Nielsen *et al.* (2018). Working title: Association of O
 ## Input
 ##### Standard: 
 1. Create an Excel sheet with the gene name, primers, and size range of product as follows:
-E.g.: ![]()
+E.g.: ![Input](panel1.png)
 
 2. ```RoDTIS.py Panel1.xlsx fasta_files/* > Output.fasta```
 
