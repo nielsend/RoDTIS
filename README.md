@@ -6,7 +6,8 @@ This script was used in Nielsen *et al.* (2018). Working title: Association of O
 
 ## Assumptions
 
- * Python is installed on machine. [Download python 2.7](https://www.anaconda.com/download/#macos).
+ * Python 3 is installed on machine. [Download python](https://www.anaconda.com/download/#macos).
+ * Biopython(https://biopython.org/wiki/Download) is installed on machine. 
  * User has bash terminal. 
 
 <br>
