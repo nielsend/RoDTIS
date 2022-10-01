@@ -6,9 +6,10 @@ This script was used in Nielsen *et al.* (2018). Working title: Association of O
 
 ## Assumptions
 
- * Python 3 is installed on machine. [Download python](https://www.anaconda.com/download/#macos).
- * Biopython(https://biopython.org/wiki/Download) is installed on machine. 
+ * [Python 3](https://www.anaconda.com/download/#macos) is installed on machine.
+ * [Biopython](https://biopython.org/wiki/Download) is installed on machine. 
  * User has bash terminal. 
+ * The title of sequences are presumed to be in an NCBI-like format, as the output will be named `[gene]_AATDWI010000001.1`  (e.g.: >AATDWI010000001.1 Escherichia coli strain 197080 SAMN05750861-rid6247213.denovo.001, whole genome shotgun sequence). Without a space, the sequences may be interpreted as sequence names.
 
 <br>
 
